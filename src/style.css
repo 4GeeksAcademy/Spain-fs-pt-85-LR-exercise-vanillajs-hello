@@ -1,1 +1,26 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: #333333;
+}
+
+.excuse-box {
+  font-size: 1.5rem;
+  color: #2c3e50;
+  background-color: #dfe6e9;
+}
+
+.fixed-bottom {
+  font-size: 0.9rem;
+}
+
+#excuse-image {
+  width: 100%;
+  max-width: 180px;
+  height: auto;
+  margin-top: 20px;
+}
